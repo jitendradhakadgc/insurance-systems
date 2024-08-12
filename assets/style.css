@@ -1,0 +1,188 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 20px;
+}
+
+.header {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.header p {
+    margin: 0;
+}
+
+.title {
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.contact-info {
+    margin-bottom: 20px;
+}
+
+.contact-info p {
+    margin: 0;
+}
+
+.email {
+    display: inline-block;
+    width: 150px;
+    color: black;
+}
+
+.claim-info {
+    margin-bottom: 20px;
+    font-weight: 600;
+    font-size: 14px;
+    padding: 0 50px;
+}
+
+.claim-info p {
+    margin: 0;
+}
+
+.content {
+    font-size: 14px;
+}
+
+.facts-liability {
+    font-size: 14px;
+}
+
+.facts-liability h4 {
+    font-weight: bold;
+}
+h4{
+    padding: 0px 60px;
+}
+.note {
+    background: yellow;
+    padding: 5px;
+    font-weight: bold;
+    font-size: 13px;
+}
+
+.image-container {
+    text-align: center;
+    margin: 20px 0;
+}
+
+.image-container img {
+    max-width: 100%;
+    border: 1px solid black;
+    width: 300px;
+}
+.totalpain{
+    background-color: #000;
+    color: #fff;
+}
+.subsequent{
+    font-weight: bold;
+}
+.new-content {
+    font-size: 14px;
+    margin-top: 20px;
+}
+.conditions{
+    text-decoration: underline;
+}
+.new-content p {
+    margin-bottom: 15px;
+}
+
+.new-content .photos {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+}
+
+.new-content .photos img {
+    width: 48%;
+    border: 1px solid black;
+}
+
+.highlight {
+    background-color: yellow;
+}
+table {
+    width: 100%;
+    margin-top: 20px;
+    border-collapse: collapse;
+}
+th, td {
+    border-bottom: 1px solid #ccc;
+    padding: 8px;
+    text-align: left;
+}
+
+th {
+    background-color: black;
+    color: white;
+}
+.loss{
+    text-align: center;
+}
+.totalloss{
+    background-color: #000;
+    color: #fff;
+}
+caption {
+    caption-side: top;
+    font-weight: bold;
+    text-align: left;
+    margin-bottom: 10px;
+}
+.treatementtable  tbody tr td:nth-child(2){
+    text-align: center;
+}
+.medicalSummation{
+    border-collapse: collapse;
+  
+}
+
+
+.treatmenttime{
+    display: flex;
+}
+.medicalSummation td:first-child {
+    background-color: #cccccc54;
+    border: none;
+    width: 25%;
+    vertical-align: top;
+}
+.totaldamage{
+    display: flex;
+    align-items: center;
+    background: #000;
+    color: #fff;
+    justify-content: space-between;
+    padding: 0px 8px;
+}
+.economicdamage{
+    background-color: #cccccc54;
+    color: #000;
+}
+.projectclaim tbody tr td:nth-child(2) {
+  text-align: right;
+}
+.medicalexpense tr td, th{
+    
+}
+
+.gc-table-heading{
+    text-align: center;
+    text-decoration: underline;
+}
+
+.Exhibitlist tbody tr td:first-child{
+ text-align: center;
+}
+.subsequent{
+    font-weight: bold;
+    border-top: 2px solid #000;
+}
+.subsequentpain  td{
+  border-bottom: 0px !important;
+}
