@@ -2,7 +2,7 @@
 /*
 Plugin Name: My PDF Generator
 Description: A plugin to generate PDFs using TCPDF.
-Version: 1.0
+Version: 1.1
 Author: Your Name
 */
 
